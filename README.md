@@ -1,4 +1,4 @@
-# Shopping Cart with React and API Rest
+# Shopping Cart with React/Rest
 
 # Run this app
 

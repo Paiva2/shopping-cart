@@ -5,10 +5,10 @@
 ### cd db products
 ### `npm install -g json-server`
 
-## ``json-server cart.json``
+### ``json-server cart.json``
 
 ### cd cart
-## `npm run dev`
+### `npm run dev`
 
 <img src="./demos/demo-desktop.gif">
 
